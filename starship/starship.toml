@@ -1,0 +1,12 @@
+add_newline = false  # keep everything on one line
+
+[directory]
+style = "cyan bold"
+truncation_length = 3
+
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
+
+[python]
+disabled = true
